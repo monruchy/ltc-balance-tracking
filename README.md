@@ -1,2 +1,2 @@
 # ltc-balance-tracking
-using discord bot, blockcypher
+using blockcypher
